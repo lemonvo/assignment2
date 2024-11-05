@@ -28,3 +28,4 @@ Git Large File Storage (LFS) is required to download large files like datasets s
 2. **Clone the repository**:
    ```bash
   git clone https://github.com/lemonvo/assignment2.git
+   ```
