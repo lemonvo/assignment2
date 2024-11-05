@@ -21,11 +21,11 @@ Git Large File Storage (LFS) is required to download large files like datasets s
     sudo apt install git-lfs
     ```
 
-  After installation, you should run the following command once to enable Git LFS for your repositories:
+  After installation, you should run the following command once in terminal or command prompt to enable Git LFS for your repositories:
 
   ```bash
   git lfs install
 2. **Clone the repository**:
    ```bash
   git clone https://github.com/lemonvo/assignment2.git
-   ```
+ 
